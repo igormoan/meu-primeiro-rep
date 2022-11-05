@@ -1,2 +1,2 @@
-console.log("Ol Mundo");
-console.log("hell");
+console.log("Olá, Mundo!");
+console.log("Bora pra o código");
